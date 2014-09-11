@@ -81,3 +81,5 @@ Thumbs.db
 PX4Firmware/
 PX4NuttX/
 VRNuttX/
+.tags
+.tags_sorted_by_file
